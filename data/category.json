@@ -1,0 +1,113 @@
+{
+    "tabs": [
+      {
+        "id": "1",
+        "name": "Tab 1",
+        "toys": [
+          {
+            "id": "toy1",
+            "picture": "./battleBot-1.jpg",
+            "name": "Toy 1",
+            "price": "$19.99",
+            "rating": 4.5,
+            "details": [
+              {
+                "seller_name": "XYZ",
+                "seller_email": "XYZ@gmail.com",
+                "quantity": 20,
+                "descreiption": "loremsdkjfdfjvbdfghvudsyfdsbfdsfbvckjfvdkjhf"
+              }
+            ]
+          },
+          {
+            "id": "toy2",
+            "picture": "./battleBot2.jpg",
+            "name": "Toy 2",
+            "price": "$24.99",
+            "rating": 4.2,
+            "details": [
+              {
+                "seller_name": "XYZ",
+                "seller_email": "XYZ@gmail.com",
+                "quantity": 20,
+                "descreiption": "loremsdkjfdfjvbdfghvudsyfdsbfdsfbvckjfvdkjhf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Tab 2",
+        "toys": [
+          {
+            "id": "toy3",
+            "picture": "./battleBot3.jpg",
+            "name": "Toy 3",
+            "price": "$14.99",
+            "rating": 4.0,
+            "details": [
+              {
+                "seller_name": "XYZ",
+                "seller_email": "XYZ@gmail.com",
+                "quantity": 20,
+                "descreiption": "loremsdkjfdfjvbdfghvudsyfdsbfdsfbvckjfvdkjhf"
+              }
+            ]
+          },
+          {
+            "id": "toy4",
+            "picture": "toy4.jpg",
+            "name": "Toy 4",
+            "price": "$29.99",
+            "rating": 4.8,
+            "details": [
+              {
+                "seller_name": "XYZ",
+                "seller_email": "XYZ@gmail.com",
+                "quantity": 20,
+                "descreiption": "loremsdkjfdfjvbdfghvudsyfdsbfdsfbvckjfvdkjhf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Tab 3",
+        "toys": [
+          {
+            "id": "toy5",
+            "picture": "toy5.jpg",
+            "name": "Toy 5",
+            "price": "$9.99",
+            "rating": 3.7,
+            "details": [
+              {
+                "seller_name": "XYZ",
+                "seller_email": "XYZ@gmail.com",
+                "quantity": 20,
+                "descreiption": "loremsdkjfdfjvbdfghvudsyfdsbfdsfbvckjfvdkjhf"
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "picture": "toy6.jpg",
+            "name": "Toy 6",
+            "price": "$34.99",
+            "rating": 4.6,
+            "details": [
+              {
+                "seller_name": "XYZ",
+                "seller_email": "XYZ@gmail.com",
+                "quantity": 20,
+                "descreiption": "loremsdkjfdfjvbdfghvudsyfdsbfdsfbvckjfvdkjhf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
